@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World, Reuben Palumbo here!
+Welcome to my amazing github profile, I hope you enjoy your stay!
 
-<!--
-**reubenPalumbo/reubenPalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Video games
+-Personal Projects
+-Friends and our adventures
+-Dungeons & Dragons
 
-Here are some ideas to get you started:
+Skills: HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email Me](reubensandwichthe1st@gmail.com)
+[Linkdin](https://www.linkedin.com/in/reuben-palumbo/)
+
+Some personal projects I've done:
+[3D Printed Tetris Wall Decoration](https://www.instagram.com/p/B93QBV4BkpS/?utm_source=ig_web_copy_link)
+[Person Movie Rating Website for friend group (WIP)](https://movienknights.netlify.app/)
