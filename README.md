@@ -6,7 +6,12 @@
 
 ---
 
-**Hobbies/Intrests:**
+**Skills**
+
+HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
+
+---
+**Hobbies/Intrests**
 
 - Video games
 
@@ -18,11 +23,7 @@
 
 ---
 
-**Skills:** HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
-
----
-
-**Some personal projects I've done:**
+**Personal projects**
 
 [3D Printed Tetris Wall Decoration](https://www.instagram.com/p/B93QBV4BkpS/?utm_source=ig_web_copy_link)
 
