@@ -12,9 +12,13 @@ Welcome to my amazing github profile, I hope you enjoy your stay!
 
 Skills: HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
 
+
+
 [Email Me](reubensandwichthe1st@gmail.com)
 
 [Linkdin](https://www.linkedin.com/in/reuben-palumbo/)
+
+
 
 
 Some personal projects I've done:
