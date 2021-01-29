@@ -1,16 +1,19 @@
-### Hello World, Reuben Palumbo here!
-Welcome to my amazing github profile, I hope you enjoy your stay!
+#Hello World, Reuben Palumbo here!
 
--Video games
+##Welcome to my amazing github profile, I hope you enjoy your stay!
 
--Personal Projects
+**Little about me:**
 
--Friends and our adventures
+- Video games
 
--Dungeons & Dragons
+- Personal Projects
+
+- Friends and our adventures
+
+- Dungeons & Dragons
 
 
-Skills: HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
+**Skills:** HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
 
 
 
@@ -21,7 +24,7 @@ Skills: HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Expr
 
 
 
-Some personal projects I've done:
+**Some personal projects I've done:**
 
 [3D Printed Tetris Wall Decoration](https://www.instagram.com/p/B93QBV4BkpS/?utm_source=ig_web_copy_link)
 
