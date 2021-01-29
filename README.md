@@ -4,13 +4,13 @@
 
 ---
 
-**Little about me:**
+**Hobbies/Intrests:**
 
 - Video games
 
 - Personal Projects
 
-- Friends and our adventures
+- Programming
 
 - Dungeons & Dragons
 
@@ -22,7 +22,7 @@
 
 [Email Me](reubensandwichthe1st@gmail.com)
 
-[Linkdin](https://www.linkedin.com/in/reuben-palumbo/)
+[My Linkdin](https://www.linkedin.com/in/reuben-palumbo/)
 
 ---
 
