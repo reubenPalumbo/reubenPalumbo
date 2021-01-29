@@ -1,6 +1,8 @@
-#Hello World, Reuben Palumbo here!
+# Hello World, Reuben Palumbo here!
 
-##Welcome to my amazing github profile, I hope you enjoy your stay!
+## Welcome to my amazing github profile, I hope you enjoy your stay!
+
+---
 
 **Little about me:**
 
@@ -12,17 +14,17 @@
 
 - Dungeons & Dragons
 
+---
 
 **Skills:** HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
 
-
+---
 
 [Email Me](reubensandwichthe1st@gmail.com)
 
 [Linkdin](https://www.linkedin.com/in/reuben-palumbo/)
 
-
-
+---
 
 **Some personal projects I've done:**
 
