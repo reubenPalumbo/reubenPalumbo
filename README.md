@@ -1,6 +1,6 @@
 # Hello World, Reuben Palumbo here!
 
-## Welcome to my amazing github profile, I hope you enjoy your stay!
+**Welcome to my amazing github profile, I hope you enjoy your stay!**
 
 ---
 
