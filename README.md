@@ -2,6 +2,8 @@
 
 **Welcome to my amazing github profile, I hope you enjoy your stay!**
 
+[Email](reubensandwichthe1st@gmail.com) | [Linkdin](https://www.linkedin.com/in/reuben-palumbo/)
+
 ---
 
 **Hobbies/Intrests:**
@@ -17,12 +19,6 @@
 ---
 
 **Skills:** HTML | CSS | JavaScript | Python | Node.js | React | Redux | Jest | Express | Knex
-
----
-
-[Email Me](reubensandwichthe1st@gmail.com)
-
-[My Linkdin](https://www.linkedin.com/in/reuben-palumbo/)
 
 ---
 
