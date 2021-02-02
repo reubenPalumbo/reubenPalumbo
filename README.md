@@ -2,7 +2,7 @@
 
 **Welcome to my amazing github profile, I hope you enjoy your stay!**
 
-[Email](reubensandwichthe1st@gmail.com) | [Linkdin](https://www.linkedin.com/in/reuben-palumbo/) | [Instgram](https://www.instagram.com/reubensandwichthe1st) | [YouTube](https://www.youtube.com/channel/UCgbrQeXkNC9ide1EyYd9mzA) | [Soundcloud](https://soundcloud.com/reuben-palumbo)
+[Email](reubensandwichthe1st@gmail.com) | [Linkedin](https://www.linkedin.com/in/reuben-palumbo/) | [Instagram](https://www.instagram.com/reubensandwichthe1st) | [YouTube](https://www.youtube.com/channel/UCgbrQeXkNC9ide1EyYd9mzA) | [Soundcloud](https://soundcloud.com/reuben-palumbo)
 
 ---
 
